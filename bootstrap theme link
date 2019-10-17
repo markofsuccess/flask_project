@@ -1,0 +1,10 @@
+module https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+BD101+2017_T1/courseware/29d5a4053b964637b17ca50f0dfa786f/7463cff53c7343beaec688102d890cbf/?child=first
+
+https://github.com/BlackrockDigital/startbootstrap-clean-blog/archive/gh-pages.zip
+
+in new terminal to install:
+mkdir static
+cd static
+wget https://github.com/BlackrockDigital/startbootstrap-clean-blog/archive/gh-pages.zip
+
+unzip gh-pages.zip
